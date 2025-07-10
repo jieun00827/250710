@@ -68,11 +68,11 @@
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header id="intro" class="text-center mb-12">
             <h1 class="text-5xl font-extrabold text-dark-blue mb-4 leading-tight">
-                글로벌 연결, <br class="md:hidden">미래 교육을 위한 <br class="md:hidden">
+                수업 사례로 만나는, <br class="md:hidden">에듀테크 활용 초등 국제공동수업 <br class="md:hidden">
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-sky-500">국제공동수업 기획</span>
             </h1>
             <p class="text-xl text-gray-700 max-w-2xl mx-auto">
-                학생들이 문화와 정서를 공유하고 글로벌 역량을 강화하며 세계시민으로 성장하는 체계적인 과정을 안내합니다.
+                국제공동수업이란?  세계 각국의 학생들과 온/오프라인 공간에서 함께 만나 언어와 문화를 배우는 한국-해외학교 간 수업 교류 프로그램
             </p>
             <div class="mt-8">
                 <img src="https://via.placeholder.com/600x300?text=Global+Collaboration+Illustration" alt="학생들이 함께 공부하는 모습" class="rounded-lg shadow-lg mx-auto">
